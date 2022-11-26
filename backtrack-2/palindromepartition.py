@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         #creating the result array
