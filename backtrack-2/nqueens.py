@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         #creating the list comprehension 
