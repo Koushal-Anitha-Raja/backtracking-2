@@ -1,3 +1,5 @@
+#Time_Complexity: O(m*n)
+#Space_Complexity: O(n)
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         #creatying a matrix of m and n grids
